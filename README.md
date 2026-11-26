@@ -54,7 +54,7 @@
 1. 浏览器安装 Tampermonkey（油猴）扩展。
 2. 安装脚本： 
   - 通过仓库 raw 文件链接安装：[qbittorrent-webui-optimization.user.js](qbittorrent-webui-optimization.user.js)
-  - 通过 greasyfork 安装：[待填写]()
+  - 通过 greasyfork 安装：[qBittorrent WebUI 优化脚本](https://greasyfork.org/zh-CN/scripts/607442)
 3. 打开 qBittorrent WebUI，确认顶部导航栏出现「→ Tracker 批量管理 ←」，且 Peer 列表出现「归属地」「运营商」两列。
 4. 首次安装 GeoIP 功能时，Tampermonkey 可能弹出跨域请求授权提示，请允许脚本访问脚本头中 `@connect` 声明的域名。
 5. 如需关闭某个功能，点击浏览器扩展菜单中本脚本下的对应开关项，确认后页面会自动刷新。
